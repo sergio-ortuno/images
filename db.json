@@ -3,32 +3,32 @@
     {
       "id": 0,
       "name": "Vue",
-      "image": "https://ibb.co/dB1xvV6"
+      "image": "https://i.ibb.co/4W93LXM/vue.png"
     },
     {
       "id": 1,
       "name": "NuxtJS",
-      "image": "https://ibb.co/Vj3mwJ9"
+      "image": "https://i.ibb.co/FxnVHm3/nuxt.png"
     },
     {
       "id": 2,
       "name": "JavaScript",
-      "image": "https://ibb.co/k0kxj9Z"
+      "image": "https://i.ibb.co/5vt6mnZ/js.png"
     },
     {
       "id": 3,
-      "name": "Bulma",
-      "image": "https://ibb.co/Ns1xmmT"
+      "name": "Angular",
+      "image": "https://i.ibb.co/x7mTxhz/angular.png"
     },
     {
       "id": 4,
-      "name": "Angular",
-      "image": "https://ibb.co/6WvCjYD"
+      "name": "Bulma",
+      "image": "https://i.ibb.co/wRJywwc/bulma.png"
     },
     {
       "id": 5,
       "name": "Bootstrap",
-      "image": "https://ibb.co/8xHC8Zm"
+      "image": "https://i.ibb.co/C9fc0Gw/bootstrap.png"
     }
   ]
 }
