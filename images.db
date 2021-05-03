@@ -1,0 +1,34 @@
+{
+  "front": [
+    {
+      "id": 0,
+      "name": "Vue",
+      "image": "https://ibb.co/dB1xvV6"
+    },
+    {
+      "id": 1,
+      "name": "NuxtJS",
+      "image": "https://ibb.co/Vj3mwJ9"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "image": "https://ibb.co/k0kxj9Z"
+    },
+    {
+      "id": 3,
+      "name": "Bulma",
+      "image": "https://ibb.co/Ns1xmmT"
+    },
+    {
+      "id": 4,
+      "name": "Angular",
+      "image": "https://ibb.co/6WvCjYD"
+    },
+    {
+      "id": 5,
+      "name": "Bootstrap",
+      "image": "https://ibb.co/8xHC8Zm"
+    }
+  ]
+}
